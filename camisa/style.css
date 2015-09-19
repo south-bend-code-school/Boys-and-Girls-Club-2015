@@ -1,0 +1,33 @@
+body {
+      background-image: url("./giphy.gif");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      text-align: center;
+      font-family: times;
+    }
+
+    h1 {
+      color: gold;
+      font-family: cursive;
+      font-size: 4em;
+    }
+
+    h2{color: gold;
+      font-family: cursive;
+    }
+
+    img {width:70%;
+    }
+    .center{
+      width: 25%;
+      margin;0 auto;
+      text-align: center;
+    }
+
+    #header {
+      background-image: url("./html_profile.jpg");
+      background-size: cover;
+      height: 500px;
+      background-position: center top;
+    }
